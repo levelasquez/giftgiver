@@ -29,5 +29,11 @@ describe('App component', () => {
 
       expect(length).toEqual(1)
     })
+
+    test('creates a Gift component', () => {
+      const exists = app.find('Gift').exists()
+
+      expect(exists).toBe(true)
+    })
   })
 })
