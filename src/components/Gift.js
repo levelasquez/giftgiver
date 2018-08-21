@@ -21,7 +21,7 @@ class Gift extends Component {
     const { gift } = this.props
 
     return (
-      <div>
+      <div className='gift'>
         <Form>
           <FormGroup>
             <ControlLabel>

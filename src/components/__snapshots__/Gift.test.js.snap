@@ -75,6 +75,7 @@ ShallowWrapper {
           Remove Gift
 </Button>,
       ],
+      "className": "gift",
     },
     "ref": null,
     "rendered": Array [
@@ -312,6 +313,7 @@ ShallowWrapper {
             Remove Gift
 </Button>,
         ],
+        "className": "gift",
       },
       "ref": null,
       "rendered": Array [
